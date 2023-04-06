@@ -8,4 +8,4 @@ This is my own profile, where my projects with no projection of going public go.
 
 ### Contact 📫
 
-My networks can be found [here](https://linktr.ee/as43z) and you can send a mail to [albertsaeznunez@gmail.com](mailto://albertsaeznunez@gmail.com). Please be mindful of your comments and be patient as I have multiple things going on right now.
+My networks can be found [here](https://linktr.ee/as43z) and you can send a mail to [albertsaeznunez@gmail.com](mailto://albertsaeznunez@gmail.com). Please be mindful of your comments and be patient as I have many things to attend to right now.

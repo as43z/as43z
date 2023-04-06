@@ -4,7 +4,7 @@ I am Albert, an engineer (student, finishing my end of degree thesis) working in
 
 ### What is this place? 🤔
 
-This is my own profile, where my projects with no projection of going public go. Even the projects are public I will not publish this stuff for public use. Pull requests and/or suggestion are absolutely welcome.
+This is my own profile, where my projects with no projection of going public go. Even the projects that are public will not be published for the intention of public use. Pull requests and/or suggestion are absolutely welcome.
 
 ### Contact 📫
 

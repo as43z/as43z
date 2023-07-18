@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Albert, an engineer (student, finishing my end of degree thesis) working in the astrophysical data validation sector. Currently I am not actively looking for any job position, however, I will gladly take a look at any offer you send me!
+I am Albert, an engineer working in the astrophysical data validation sector. I will gladly take a look at any offer you send me!
 
 ### What is this place? 🤔
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Albert, an engineer working in the astrophysical data validation sector. I will gladly take a look at any offer you send me!
+I am Albert, an engineer working in secure key and certificate for banking management. Overall, I am a very versatile developer with many skills, ranging from cryptography to low-level firmware and drivers. I will look at any offers sent to me.
 
 ### What is this place? 🤔
 

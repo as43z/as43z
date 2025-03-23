@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Albert, an engineer working in secure key and certificate for banking management. Overall, I am a very versatile developer with many skills, ranging from cryptography to low-level firmware and drivers.
+I am Albert, an engineer working in satellite and RAN communication technologies. Overall, I am a very versatile developer with many skills, ranging from cryptography to low-level firmware and drivers.
 
 ### What is this place? 🤔
 
